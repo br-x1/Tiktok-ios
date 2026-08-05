@@ -1,4 +1,4 @@
-# tiktokcor-iOS
+# tiktokcore-iOS
 
 ## Python algorithm to generate, X-Ladon, X-Argus, X-Gorgon, X-Khronos, mssdk (ms/get_seed, sdi/get_token), ttencrypt (service/2/device_register)
 ## iOS app version 46.1.0 (4610350)
